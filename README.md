@@ -3,7 +3,7 @@
 ## 📊 Overview
 This project presents a comprehensive analysis of a healthcare center's financial performance and healthcare provider efficiency using Power BI. It includes KPIs, trend analysis, and actionable insights, supported by interactive visuals.
 
-[![Healthcare Provider Dashboard](./6bbe4bb5-96bb-4adc-8ab8-1a9e7b947838.png)](https://app.powerbi.com/reportEmbed?reportId=40ea35fa-5488-4485-b4dc-05da22661a95&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)
+
 
 ---
 
